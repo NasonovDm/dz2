@@ -40,6 +40,7 @@ public class Main<length> {
 }
 
 //4 Не разобрался как сделать задание
+/*
         int[][] arr = new int[4][4];
 
         for (int i = 0; i < 4; i++) {
@@ -51,6 +52,7 @@ public class Main<length> {
             }
         }
     }
+*/
 
 
 
